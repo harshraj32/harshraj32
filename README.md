@@ -5,7 +5,6 @@
 ### 🚀 About Me:  
 - 🎓 Master’s AI Student at **San Jose State University** 🏫  
 - 🔧 Former Software Engineer at **CelLink Corporation**  
-- 📊 Technical Associate at **Merilytics**  
 - 🎬 Founder of **Cineast**  
 
 🚀 Passionate about developing AI applications, optimizing **Large Language Models (LLMs)**, and building **Full-Stack AI Agent Platforms**.  
